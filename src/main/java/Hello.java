@@ -10,5 +10,8 @@ public class Hello {
 
         //new things added to feature1
 
+        //feature2 added
+        //new line added to feature2
+
     }
 }
