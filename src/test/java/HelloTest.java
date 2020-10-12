@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class HelloTest {
+public class HelloTest {
+    public static void main(String[] args) {
+
+        System.out.println("Hello test");
+    }
 }
