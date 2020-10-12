@@ -5,5 +5,10 @@ public class Hello {
         System.out.println("Hello guys");
         System.out.println("group studying with Asli, Tuba and Neriman :)");
 
+
+        System.out.println("new message");
+
+        //new things added to feature1
+
     }
 }
