@@ -12,6 +12,8 @@ public class Hello {
 
         System.out.println("today is good");
         // we are learning github
+        //pull from github, push to the github
+
 
     }
 }
