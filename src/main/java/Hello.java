@@ -8,6 +8,7 @@ public class Hello {
 
         System.out.println("new message");
         System.out.println("I made some awesome changes");
+        System.out.println("hi all");
         
         
 
