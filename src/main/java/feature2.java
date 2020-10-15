@@ -3,5 +3,7 @@ public class feature2 {
         System.out.println(" new class added");
         System.out.println(" Hello world");
 
+        // awesomeLines added
+
     }
 }
